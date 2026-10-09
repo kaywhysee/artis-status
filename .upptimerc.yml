@@ -4,6 +4,8 @@ repo: artis-status
 sites:
   - name: Arti's API
     url: https://api.artis.bar/health
+  - name: The welcome page
+    url: https://artis.bar/llms.txt
 
 status-website:
   cname: status.artis.bar
