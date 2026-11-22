@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artis.bar.ico",
     "slug": "arti-s-api",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "85.08%",
-    "uptimeWeek": "97.87%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.65%",
-    "time": 251,
-    "timeDay": 38,
-    "timeWeek": 212,
-    "timeMonth": 249,
-    "timeYear": 251,
+    "uptime": "97.41%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "83.93%",
+    "uptimeMonth": "96.30%",
+    "uptimeYear": "97.41%",
+    "time": 246,
+    "timeDay": 37,
+    "timeWeek": 175,
+    "timeMonth": 240,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2026-11-21": 215
+      "2026-11-22": 292,
+      "2026-11-21": 1328
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 184,
-    "timeWeek": 258,
-    "timeMonth": 255,
-    "timeYear": 246,
+    "time": 244,
+    "timeDay": 175,
+    "timeWeek": 259,
+    "timeMonth": 252,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   }
 ]
